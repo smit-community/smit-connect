@@ -2,7 +2,7 @@
     {
         "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/payment_settings/*"],
         "file_name": "extended-payment",
-        "file_hash": "28115ef431ef68c6ce52ab4f01cb7edf"
+        "file_hash": "70d40154d49006db97d98771f2b6c8fe"
     },
     {
         "include": ["https://smit.vn/*", "https://*.smit.vn/*"],
