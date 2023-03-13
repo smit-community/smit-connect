@@ -1,0 +1,12 @@
+[
+    {
+        "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/payment_settings/*"],
+        "file_name": "extended-payment",
+        "file_hash": "a86a321e8a85d974205d0bfe37c8099e"
+    },
+    {
+        "include": ["https://smit.vn/*", "https://*.smit.vn/*"],
+        "file_name": "extended-smit",
+        "file_hash": "038ae1d68a6056931ad07fd135b049d1"
+    }
+]

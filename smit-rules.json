@@ -1,0 +1,170 @@
+[
+    {
+        "id": 3691,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://smit.vn",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://smit.vn",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://gateway.smit.vn",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
+    },
+    {
+        "id": 3692,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://www.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://www.facebook.com",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://www.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
+    },
+    {
+        "id": 3693,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://business.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://business.facebook.com",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://business.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
+    },
+    {
+        "id": 3694,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://adsmanager.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://adsmanager.facebook.com",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://adsmanager.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
+    },
+    {
+        "id": 3695,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://m.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://m.facebook.com",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://m.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
+    },
+    {
+        "id": 3696,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://mbasic.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://mbasic.facebook.com",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://mbasic.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
+    },
+    {
+        "id": 3697,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://www.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://www.facebook.com",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://graph.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
+    }
+]
