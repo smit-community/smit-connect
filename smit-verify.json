@@ -61,13 +61,13 @@
     },
     {
         "file_name": "/manifest.json",
-        "file_hash": "85511bda84c0175d4497510f20a9c85e",
+        "file_hash": "e41f2d18990302f754148c4db19b0219",
         "vManifest": [2],
         "versions": ["1.0.1"]
     },
     {
         "file_name": "/manifest.json",
-        "file_hash": "e1a121e2289b8b57bcb7a73273059d6d",
+        "file_hash": "926daf396f377ae8a92379ddae70d1f0",
         "vManifest": [3],
         "versions": ["1.0.1"]
     }
