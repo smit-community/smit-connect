@@ -3,7 +3,7 @@
         "file_name": "/background.html",
         "file_hash": "76586624c931f6c25a95ca627d07786b",
         "vManifest": [2],
-        "versions": ["1.0.0"]
+        "versions": ["1.0.0", "1.0.1"]
     },
     {
         "file_name": "/background.js",
@@ -15,31 +15,31 @@
         "file_name": "/content-scripts/hook.js",
         "file_hash": "ddc5a5ee539325ee1808bac62260f352",
         "vManifest": [2, 3],
-        "versions": ["1.0.0"]
+        "versions": ["1.0.0", "1.0.1"]
     },
     {
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "b6e12f785377ada62e891c22332edfb0",
         "vManifest": [2],
-        "versions": ["1.0.0"]
+        "versions": ["1.0.0", "1.0.1"]
     },
     {
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "56c2d2ef6ff3c210edeb27b4f49c8f07",
         "vManifest": [3],
-        "versions": ["1.0.0"]
+        "versions": ["1.0.0", "1.0.1"]
     },
     {
         "file_name": "/content-scripts/main.js",
         "file_hash": "d27c5ec289ce6d387352e15c41e5c83d",
         "vManifest": [2, 3],
-        "versions": ["1.0.0"]
+        "versions": ["1.0.0", "1.0.1"]
     },
     {
         "file_name": "/vendor.js",
         "file_hash": "97df2358c93125aba9b6c6bd0fe32001",
         "vManifest": [2, 3],
-        "versions": ["1.0.0"]
+        "versions": ["1.0.0", "1.0.1"]
     },
     {
         "file_name": "/manifest.json",
@@ -52,5 +52,23 @@
         "file_hash": "a3e8eb1e6edadaa2710d1da59409894b",
         "vManifest": [3],
         "versions": ["1.0.0"]
+    },
+    {
+        "file_name": "/background.js",
+        "file_hash": "e4a776e681ffd51b82de3e8f40c0d202",
+        "vManifest": [2, 3],
+        "versions": ["1.0.1"]
+    },
+    {
+        "file_name": "/manifest.json",
+        "file_hash": "85511bda84c0175d4497510f20a9c85e",
+        "vManifest": [2],
+        "versions": ["1.0.1"]
+    },
+    {
+        "file_name": "/manifest.json",
+        "file_hash": "e1a121e2289b8b57bcb7a73273059d6d",
+        "vManifest": [3],
+        "versions": ["1.0.1"]
     }
 ]
