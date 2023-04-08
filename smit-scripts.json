@@ -3,10 +3,5 @@
         "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/payment_settings/*"],
         "file_name": "extended-payment",
         "file_hash": "daba4ad510fd160647cfbfecab7052b7"
-    },
-    {
-        "include": ["https://adscheck.smit.vn/*"],
-        "file_name": "extended-smit",
-        "file_hash": "038ae1d68a6056931ad07fd135b049d1"
     }
 ]
