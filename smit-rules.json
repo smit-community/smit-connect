@@ -166,5 +166,29 @@
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
             "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
         }
+    },
+    {
+        "id": 3697,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "origin",
+                    "value": "https://adsmanager.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "referer",
+                    "value": "https://adsmanager.facebook.com",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://adsmanager-graph.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
     }
 ]
