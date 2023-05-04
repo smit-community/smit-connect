@@ -158,6 +158,11 @@
                     "header": "referer",
                     "value": "https://www.facebook.com",
                     "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-site",
+                    "value": "same-site",
+                    "operation": "set"
                 }
             ]
         },
@@ -181,6 +186,11 @@
                 {
                     "header": "referer",
                     "value": "https://adsmanager.facebook.com",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-site",
+                    "value": "same-site",
                     "operation": "set"
                 }
             ]
