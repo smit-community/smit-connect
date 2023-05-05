@@ -200,5 +200,23 @@
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
             "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
         }
+    },
+    {
+        "id": 3699,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [
+                {
+                    "header": "x-frame-options",
+                    "operation": "remove"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": ["*://smit.*", "*://*.smit.*"],
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
     }
 ]
