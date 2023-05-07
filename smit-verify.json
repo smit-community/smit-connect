@@ -121,13 +121,13 @@
     },
     {
         "file_name": "/background.js",
-        "file_hash": "b433fd1351cc20d95494b29a4f49634f",
+        "file_hash": "68e73d9663e3a9c78f64c475a422950c",
         "vManifest": [2, 3],
         "versions": ["1.0.3"]
     },
     {
         "file_name": "/dashboard.js",
-        "file_hash": "28ecd8efb2fedce41168d41d445e901f",
+        "file_hash": "bd3ce4f6c0c306fb2ac6e447ce1bea79",
         "vManifest": [2, 3],
         "versions": ["1.0.3"]
     },
