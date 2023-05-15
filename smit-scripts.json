@@ -1,7 +1,7 @@
 [
     {
-        "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/payment_settings/*", "https://*.facebook.com/billing_hub/accounts/details/*"],
+        "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/payment_settings/*", "https://*.facebook.com/billing_hub/accounts/details*"],
         "file_name": "extended-payment",
-        "file_hash": "dadf3db900e67b2e5b0025f7217b46ec"
+        "file_hash": "f14d3d08654c1fda51d6071aeb1a29ff"
     }
 ]
