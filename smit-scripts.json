@@ -2,6 +2,6 @@
     {
         "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/*"],
         "file_name": "extended-payment",
-        "file_hash": "28b23996f4a3d8611eff4c16c64c0477"
+        "file_hash": "e1d620ecb897434349ecd9d20a7be649"
     }
 ]
