@@ -236,5 +236,24 @@
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
             "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
         }
+    },
+    {
+        "id": 3701,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "user-agent",
+                    "value": "GoogleTranslate",
+                    "operation": "set"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://translate.google.com",
+            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf"]
+        }
     }
 ]
