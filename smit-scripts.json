@@ -7,6 +7,6 @@
     {
         "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*"],
         "file_name": "smit-translator",
-        "file_hash": "c8f7ef211a68800866e008b01b115031"
+        "file_hash": "367405de89f98abe50fbd0b47bcb5517"
     }
 ]
