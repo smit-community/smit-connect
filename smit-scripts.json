@@ -3,5 +3,10 @@
         "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/*"],
         "file_name": "extended-payment",
         "file_hash": "e1d620ecb897434349ecd9d20a7be649"
+    },
+    {
+        "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*"],
+        "file_name": "smit-translator",
+        "file_hash": "c8f7ef211a68800866e008b01b115031"
     }
 ]
