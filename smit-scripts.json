@@ -8,5 +8,10 @@
         "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*"],
         "file_name": "smit-translator",
         "file_hash": "39d9006f0be6127d78010b334cb48289"
+    },
+    {
+        "include": ["https://www.facebook.com/"],
+        "file_name": "smit-ads-finder",
+        "file_hash": "40c8667284514b958c038c19c72c4dd7"
     }
 ]
