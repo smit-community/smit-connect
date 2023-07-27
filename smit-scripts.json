@@ -2,7 +2,7 @@
     {
         "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/*"],
         "file_name": "extended-payment",
-        "file_hash": "e1d620ecb897434349ecd9d20a7be649"
+        "file_hash": "070db7924b2e964d51f3c2e3cf0a755c"
     },
     {
         "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*"],
