@@ -181,19 +181,19 @@
     },
     {
         "file_name": "/background.js",
-        "file_hash": "ad30e431367748ab83d05c0084d33595",
+        "file_hash": "e34019518b79c0e9be316486b2c19d7d",
         "vManifest": [2, 3],
         "versions": ["1.0.6"]
     },
     {
         "file_name": "/manifest.json",
-        "file_hash": "3bc17369251f1a40975e34b6b1830d5a",
+        "file_hash": "8341d8f5de8194b912a3ccaf6c50d569",
         "vManifest": [2],
         "versions": ["1.0.6"]
     },
     {
         "file_name": "/manifest.json",
-        "file_hash": "8b9807d2fa6cb44b518fd57c46682d11",
+        "file_hash": "a07c585ec6a0312ff8e6d27445ac9d6c",
         "vManifest": [3],
         "versions": ["1.0.6"]
     }
