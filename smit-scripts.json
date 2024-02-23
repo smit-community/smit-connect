@@ -5,9 +5,9 @@
         "file_hash": "76e6d059e7168d2aceaaea44197b8c34"
     },
     {
-        "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*", "https://smax.ai/*"],
+        "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://pancake.biz/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*", "https://smax.ai/*"],
         "file_name": "smit-translator",
-        "file_hash": "97ab4fa3a3b4ee4df12fc99bfb63ca6c"
+        "file_hash": "0f9ab2dcf4ca381e643de50ebc12eedb"
     },
     {
         "include": ["https://www.facebook.com/", "https://www.facebook.com/tr"],
