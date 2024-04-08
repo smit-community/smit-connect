@@ -20,7 +20,7 @@
         "condition": {
             "urlFilter": "https://gateway.smit.vn",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -44,7 +44,7 @@
         "condition": {
             "urlFilter": "https://www.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -68,7 +68,7 @@
         "condition": {
             "urlFilter": "https://business.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -92,7 +92,7 @@
         "condition": {
             "urlFilter": "https://adsmanager.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -116,7 +116,7 @@
         "condition": {
             "urlFilter": "https://m.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -140,7 +140,7 @@
         "condition": {
             "urlFilter": "https://mbasic.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -169,7 +169,7 @@
         "condition": {
             "urlFilter": "https://graph.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -198,7 +198,7 @@
         "condition": {
             "urlFilter": "https://adsmanager-graph.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -216,7 +216,7 @@
         "condition": {
             "urlFilter": "*://smit.*",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -234,7 +234,7 @@
         "condition": {
             "urlFilter": "*://*.smit.*",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     },
     {
@@ -253,7 +253,7 @@
         "condition": {
             "urlFilter": "https://translate.google.com",
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit-firefox@smit.vn"]
+            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "firefox@smit.vn"]
         }
     }
 ]
