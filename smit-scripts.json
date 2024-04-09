@@ -13,5 +13,10 @@
         "include": ["https://www.facebook.com/", "https://www.facebook.com/tr"],
         "file_name": "smit-ads-finder",
         "file_hash": "a0edc66f9df09f8e50dbd93c1906865d"
+    },
+    {
+        "include": ["https://smit.vn/*", "https://*.smit.vn/*"],
+        "file_name": "extended-smit",
+        "file_hash": "c4002435a710b82bd363153d6be48a40"
     }
 ]
