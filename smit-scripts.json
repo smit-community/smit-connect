@@ -2,7 +2,7 @@
     {
         "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/*", "https://*.facebook.com/adsreporting/*"],
         "file_name": "extended-payment",
-        "file_hash": "183c448f2d74b5c18c91383d87e6a4c1"
+        "file_hash": "af6a3bff5661e51457d8b91ecff95daa"
     },
     {
         "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://pancake.biz/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*", "https://smax.ai/*"],
