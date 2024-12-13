@@ -255,5 +255,22 @@
             "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
             "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit.addon@smit.vn"]
         }
+    },
+    {
+        "id": 3702,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [
+                {
+                    "header": "content-security-policy",
+                    "operation": "remove"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://business.facebook.com",
+            "resourceTypes": ["main_frame", "sub_frame"]
+        }
     }
 ]
