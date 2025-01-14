@@ -1,5 +1,10 @@
 [
     {
+        "include": ["https://*.facebook.com/*"],
+        "file_name": "facebook",
+        "file_hash": "f752cf131ca74b788c875fc26f7819a5"
+    },
+    {
         "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/*", "https://*.facebook.com/adsreporting/*"],
         "file_name": "extended-payment",
         "file_hash": "af6a3bff5661e51457d8b91ecff95daa"
