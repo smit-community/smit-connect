@@ -12,7 +12,7 @@
     {
         "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://pancake.biz/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*", "https://smax.ai/*"],
         "file_name": "smit-translator",
-        "file_hash": "4268c49c51f00d4e96119c1ad1bb6ff4"
+        "file_hash": "13a9ff29d8c9d450a4e994e332263c96"
     },
     {
         "include": ["https://www.facebook.com/", "https://www.facebook.com/tr"],
