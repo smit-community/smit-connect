@@ -271,7 +271,7 @@
         "condition": {
             "urlFilter": "https://business.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "smit.addon@smit.vn"]
+            "initiatorDomains": ["https://business.facebook.com"]
         }
     }
 ]
