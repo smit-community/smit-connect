@@ -295,7 +295,7 @@
     },
     {
         "file_name": "/content-scripts/main.js",
-        "file_hash": "19f213db3ee8db624815de7c5f2eaaab",
+        "file_hash": "f1f901144ea33bca58290ea2a8c1d447",
         "vManifest": [3],
         "versions": ["1.1.1"]
     },
@@ -313,7 +313,7 @@
     },
     {
         "file_name": "/manifest.json",
-        "file_hash": "8f1d1062fbb514fae79660a689432a80",
+        "file_hash": "42d6a48a272319717f0d0ed28fc2cde2",
         "vManifest": [3],
         "versions": ["1.1.1"]
     }
