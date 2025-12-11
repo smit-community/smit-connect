@@ -31,12 +31,35 @@
             "requestHeaders": [
                 {
                     "header": "origin",
-                    "value": "https://www.facebook.com",
-                    "operation": "set"
+                    "operation": "remove"
                 },
                 {
                     "header": "referer",
-                    "value": "https://www.facebook.com",
+                    "operation": "remove"
+                },
+                {
+                    "header": "sec-fetch-dest",
+                    "value": "document",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-mode",
+                    "value": "navigate",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-site",
+                    "value": "none",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-user",
+                    "value": "?1",
+                    "operation": "set"
+                },
+                {
+                    "header": "upgrade-insecure-requests",
+                    "value": "1",
                     "operation": "set"
                 }
             ]
@@ -55,12 +78,35 @@
             "requestHeaders": [
                 {
                     "header": "origin",
-                    "value": "https://business.facebook.com",
-                    "operation": "set"
+                    "operation": "remove"
                 },
                 {
                     "header": "referer",
-                    "value": "https://business.facebook.com",
+                    "operation": "remove"
+                },
+                {
+                    "header": "sec-fetch-dest",
+                    "value": "document",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-mode",
+                    "value": "navigate",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-site",
+                    "value": "none",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-user",
+                    "value": "?1",
+                    "operation": "set"
+                },
+                {
+                    "header": "upgrade-insecure-requests",
+                    "value": "1",
                     "operation": "set"
                 }
             ]
@@ -79,12 +125,35 @@
             "requestHeaders": [
                 {
                     "header": "origin",
-                    "value": "https://adsmanager.facebook.com",
-                    "operation": "set"
+                    "operation": "remove"
                 },
                 {
                     "header": "referer",
-                    "value": "https://adsmanager.facebook.com",
+                    "operation": "remove"
+                },
+                {
+                    "header": "sec-fetch-dest",
+                    "value": "document",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-mode",
+                    "value": "navigate",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-site",
+                    "value": "none",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-user",
+                    "value": "?1",
+                    "operation": "set"
+                },
+                {
+                    "header": "upgrade-insecure-requests",
+                    "value": "1",
                     "operation": "set"
                 }
             ]
@@ -103,12 +172,35 @@
             "requestHeaders": [
                 {
                     "header": "origin",
-                    "value": "https://m.facebook.com",
-                    "operation": "set"
+                    "operation": "remove"
                 },
                 {
                     "header": "referer",
-                    "value": "https://m.facebook.com",
+                    "operation": "remove"
+                },
+                {
+                    "header": "sec-fetch-dest",
+                    "value": "document",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-mode",
+                    "value": "navigate",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-site",
+                    "value": "none",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-user",
+                    "value": "?1",
+                    "operation": "set"
+                },
+                {
+                    "header": "upgrade-insecure-requests",
+                    "value": "1",
                     "operation": "set"
                 }
             ]
@@ -127,12 +219,35 @@
             "requestHeaders": [
                 {
                     "header": "origin",
-                    "value": "https://mbasic.facebook.com",
-                    "operation": "set"
+                    "operation": "remove"
                 },
                 {
                     "header": "referer",
-                    "value": "https://mbasic.facebook.com",
+                    "operation": "remove"
+                },
+                {
+                    "header": "sec-fetch-dest",
+                    "value": "document",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-mode",
+                    "value": "navigate",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-site",
+                    "value": "none",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-user",
+                    "value": "?1",
+                    "operation": "set"
+                },
+                {
+                    "header": "upgrade-insecure-requests",
+                    "value": "1",
                     "operation": "set"
                 }
             ]
@@ -163,6 +278,16 @@
                     "header": "sec-fetch-site",
                     "value": "same-site",
                     "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-dest",
+                    "value": "empty",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-mode",
+                    "value": "cors",
+                    "operation": "set"
                 }
             ]
         },
@@ -191,6 +316,16 @@
                 {
                     "header": "sec-fetch-site",
                     "value": "same-site",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-dest",
+                    "value": "empty",
+                    "operation": "set"
+                },
+                {
+                    "header": "sec-fetch-mode",
+                    "value": "cors",
                     "operation": "set"
                 }
             ]
