@@ -407,5 +407,22 @@
             "urlFilter": "https://business.facebook.com",
             "resourceTypes": ["main_frame", "sub_frame"]
         }
+    },
+    {
+        "id": 3703,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [
+                {
+                    "header": "content-security-policy",
+                    "operation": "remove"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://web.whatsapp.com",
+            "resourceTypes": ["main_frame", "sub_frame"]
+        }
     }
 ]
