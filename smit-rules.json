@@ -426,19 +426,19 @@
         }
     },
     {
-        "id": 3704,
+        "id": 3705,
         "priority": 99,
         "action": {
             "type": "modifyHeaders",
             "responseHeaders": [
-                {
-                    "header": "content-security-policy",
-                    "operation": "remove"
-                }
+                { "header": "cache-control", "operation": "set", "value": "no-cache, no-store, must-revalidate" },
+                { "header": "pragma", "operation": "set", "value": "no-cache" },
+                { "header": "expires", "operation": "set", "value": "0" },
+                { "header": "content-security-policy", "operation": "remove" } 
             ]
         },
         "condition": {
-            "urlFilter": "https://web.telegram.org",
+            "urlFilter": "||web.telegram.org",
             "resourceTypes": ["main_frame", "sub_frame"]
         }
     }
