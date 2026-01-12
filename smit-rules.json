@@ -424,5 +424,22 @@
             "urlFilter": "https://web.whatsapp.com",
             "resourceTypes": ["main_frame", "sub_frame"]
         }
+    },
+    {
+        "id": 3704,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [
+                {
+                    "header": "content-security-policy",
+                    "operation": "remove"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://web.telegram.org",
+            "resourceTypes": ["main_frame", "sub_frame"]
+        }
     }
 ]
