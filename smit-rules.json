@@ -426,6 +426,23 @@
         }
     },
     {
+        "id": 3704,
+        "priority": 99,
+        "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [
+                {
+                    "header": "content-security-policy",
+                    "operation": "remove"
+                }
+            ]
+        },
+        "condition": {
+            "urlFilter": "https://www.messenger.com",
+            "resourceTypes": ["main_frame", "sub_frame"]
+        }
+    },
+    {
         "id": 3705,
         "priority": 99,
         "action": {
