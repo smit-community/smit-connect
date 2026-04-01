@@ -279,7 +279,7 @@
         "file_name": "/background.js",
         "file_hash": "6a6de26214eb2b37df53bc72975a5d0b",
         "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2"]
+        "versions": ["1.1.1", "1.1.2", "1.1.3"]
     },
     {
         "file_name": "/content-scripts/hook.js",
@@ -291,19 +291,19 @@
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "e7ca29ecf0deb7779fa17550fbbbe5e6",
         "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2"]
+        "versions": ["1.1.1", "1.1.2", "1.1.3"]
     },
     {
         "file_name": "/content-scripts/main.js",
         "file_hash": "f1f901144ea33bca58290ea2a8c1d447",
         "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2"]
+        "versions": ["1.1.1", "1.1.2", "1.1.3"]
     },
     {
         "file_name": "/dashboard.js",
         "file_hash": "3692994989c09661fc9ddd095f0fadc9",
         "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2"]
+        "versions": ["1.1.1", "1.1.2", "1.1.3"]
     },
     {
         "file_name": "/vendor.js",
@@ -321,7 +321,7 @@
         "file_name": "/dashboard.html",
         "file_hash": "b6ec936b3dbd07b554ae9d612a9e4c1b",
         "vManifest": [2, 3],
-        "versions": ["1.1.2"]
+        "versions": ["1.1.2", "1.1.3"]
     },
     {
         "file_name": "/content-scripts/hook.js",
@@ -333,6 +333,18 @@
         "file_name": "/vendor.js",
         "file_hash": "98bd2879bf7431374f07df44be5618d2",
         "vManifest": [3],
-        "versions": ["1.1.2"]
+        "versions": ["1.1.2", "1.1.3"]
+    },
+    {
+        "file_name": "/content-scripts/hook.js",
+        "file_hash": "8516eaa38c22a6333136498e434d06e1",
+        "vManifest": [3],
+        "versions": ["1.1.3"]
+    },
+    {
+        "file_name": "/manifest.json",
+        "file_hash": "0246963ad353f3ac296643a829f7e947",
+        "vManifest": [3],
+        "versions": ["1.1.3"]
     }
 ]
