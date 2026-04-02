@@ -2,349 +2,681 @@
     {
         "file_name": "/background.html",
         "file_hash": "76586624c931f6c25a95ca627d07786b",
-        "vManifest": [2],
-        "versions": ["1.0.0", "1.0.1", "1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.0",
+            "1.0.1",
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "9a9c4743cff4fe13b59909fc6feec2a7",
-        "vManifest": [2, 3],
-        "versions": ["1.0.0"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.0"
+        ]
     },
     {
         "file_name": "/content-scripts/hook.js",
         "file_hash": "ddc5a5ee539325ee1808bac62260f352",
-        "vManifest": [2, 3],
-        "versions": ["1.0.0", "1.0.1"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.0",
+            "1.0.1"
+        ]
     },
     {
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "b6e12f785377ada62e891c22332edfb0",
-        "vManifest": [2],
-        "versions": ["1.0.0", "1.0.1"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.0",
+            "1.0.1"
+        ]
     },
     {
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "56c2d2ef6ff3c210edeb27b4f49c8f07",
-        "vManifest": [3],
-        "versions": ["1.0.0", "1.0.1"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.0",
+            "1.0.1"
+        ]
     },
     {
         "file_name": "/content-scripts/main.js",
         "file_hash": "d27c5ec289ce6d387352e15c41e5c83d",
-        "vManifest": [2, 3],
-        "versions": ["1.0.0", "1.0.1"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.0",
+            "1.0.1"
+        ]
     },
     {
         "file_name": "/vendor.js",
         "file_hash": "97df2358c93125aba9b6c6bd0fe32001",
-        "vManifest": [2, 3],
-        "versions": ["1.0.0", "1.0.1", "1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.0",
+            "1.0.1",
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "d59c72d11525703745250f21c51bbe0a",
-        "vManifest": [2],
-        "versions": ["1.0.0"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.0"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "a3e8eb1e6edadaa2710d1da59409894b",
-        "vManifest": [3],
-        "versions": ["1.0.0"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.0"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "e4a776e681ffd51b82de3e8f40c0d202",
-        "vManifest": [2, 3],
-        "versions": ["1.0.1"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.1"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "e41f2d18990302f754148c4db19b0219",
-        "vManifest": [2],
-        "versions": ["1.0.1"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.1"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "926daf396f377ae8a92379ddae70d1f0",
-        "vManifest": [3],
-        "versions": ["1.0.1"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.1"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "763bfa7b6abe542ab2841d267a3953a7",
-        "vManifest": [2, 3],
-        "versions": ["1.0.2"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.2"
+        ]
     },
     {
         "file_name": "/content-scripts/hook.js",
         "file_hash": "820676f7c2c653ce734238c7b548dde0",
-        "vManifest": [2, 3],
-        "versions": ["1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "829d8613da7fd01f89f98c0b569c5ab2",
-        "vManifest": [2],
-        "versions": ["1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "099fa7c15b0b5aeda3fcccf221a9c208",
-        "vManifest": [3],
-        "versions": ["1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/content-scripts/main.js",
         "file_hash": "d855ec3a30fb82ad524ffb100d5291af",
-        "vManifest": [2, 3],
-        "versions": ["1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.2",
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "625c418f1060c801ec7f6b1b92541e95",
-        "vManifest": [2],
-        "versions": ["1.0.2"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.2"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "5a7e22b5a0ba77e36c679629841c35ac",
-        "vManifest": [3],
-        "versions": ["1.0.2"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.2"
+        ]
     },
     {
         "file_name": "/dashboard.html",
         "file_hash": "00bed415b7bb8cc3d2008fc6cbb42208",
-        "vManifest": [2, 3],
-        "versions": ["1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0", "1.1.1"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0",
+            "1.1.1"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "5757dc32078787878bd956e745c2c2f2",
-        "vManifest": [2, 3],
-        "versions": ["1.0.3"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.3"
+        ]
     },
     {
         "file_name": "/dashboard.js",
         "file_hash": "87cb2376e6614650bb4058b94a9c49bb",
-        "vManifest": [2, 3],
-        "versions": ["1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.3",
+            "1.0.4",
+            "1.0.5",
+            "1.0.6",
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "de2f1d8082af1fb2ae0e1f85a92d828e",
-        "vManifest": [2],
-        "versions": ["1.0.3"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.3"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "84edaa6f3b0844a5f34d77fff744ad12",
-        "vManifest": [3],
-        "versions": ["1.0.3"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.3"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "e584c7d168dd02010badf7dafed60702",
-        "vManifest": [2, 3],
-        "versions": ["1.0.4"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.4"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "f858f52ece2801de1ed5311fb6c4dbef",
-        "vManifest": [2],
-        "versions": ["1.0.4"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.4"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "0562e583bd25bae84ddeeadad27aeb0e",
-        "vManifest": [3],
-        "versions": ["1.0.4"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.4"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "659b459e191fdf9334f821a2f38462e2",
-        "vManifest": [2, 3],
-        "versions": ["1.0.5"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.5"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "2ea289d471a9490ccc9e0546673776ac",
-        "vManifest": [2],
-        "versions": ["1.0.5"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.5"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "bf07daf3ee93a799b0242a48579518de",
-        "vManifest": [3],
-        "versions": ["1.0.5"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.5"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "74e93e40bd1f4f08bcbe9c7a0a2e1bae",
-        "vManifest": [2, 3],
-        "versions": ["1.0.6"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.6"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "8341d8f5de8194b912a3ccaf6c50d569",
-        "vManifest": [2],
-        "versions": ["1.0.6"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.6"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "a07c585ec6a0312ff8e6d27445ac9d6c",
-        "vManifest": [3],
-        "versions": ["1.0.6"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.6"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "c88a3af389a37cc25d1713eaad611f8e",
-        "vManifest": [2, 3],
-        "versions": ["1.0.7"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.7"
+        ]
     },
     {
         "file_name": "/content-scripts/main.js",
         "file_hash": "bb37d50c95d1123daf1f92f4394b90aa",
-        "vManifest": [2, 3],
-        "versions": ["1.0.7", "1.0.8", "1.0.9", "1.1.0"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.7",
+            "1.0.8",
+            "1.0.9",
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "bb12032b99a011ed429cb18a3ef118dd",
-        "vManifest": [2],
-        "versions": ["1.0.7"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.7"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "5f73b8b1dea9e13f303a4e91499cc091",
-        "vManifest": [3],
-        "versions": ["1.0.7"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.7"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "8932d53ec4930e1f0949ca4f14941c6a",
-        "vManifest": [2, 3],
-        "versions": ["1.0.8"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.8"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "48cc8f302d8a06ee466ce45076c5532a",
-        "vManifest": [2],
-        "versions": ["1.0.8"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.8"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "5553255f00a976d75806f015dee98708",
-        "vManifest": [3],
-        "versions": ["1.0.8"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.8"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "4c9c60155a84526af745b25405458c1d",
-        "vManifest": [2, 3],
-        "versions": ["1.0.9"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.0.9"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "64a75fa7ce893a0bf498ca7410bebfc5",
-        "vManifest": [2],
-        "versions": ["1.0.9"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.0.9"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "ca05ca01a225d2eddab591d470d165f3",
-        "vManifest": [3],
-        "versions": ["1.0.9"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.0.9"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "100144ec110cb55b32dd5838c3d46b80",
-        "vManifest": [2, 3],
-        "versions": ["1.1.0"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "1e0c96239c2a67bdde41fea6f6ea384e",
-        "vManifest": [2],
-        "versions": ["1.1.0"]
+        "vManifest": [
+            2
+        ],
+        "versions": [
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "7e8e680cca2a89256833241b36113bf7",
-        "vManifest": [3],
-        "versions": ["1.1.0"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.0"
+        ]
     },
     {
         "file_name": "/background.js",
         "file_hash": "6a6de26214eb2b37df53bc72975a5d0b",
-        "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2", "1.1.3"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.1",
+            "1.1.2",
+            "1.1.3"
+        ]
     },
     {
         "file_name": "/content-scripts/hook.js",
         "file_hash": "62b4ed0fda2e33a110c05955f8de15a8",
-        "vManifest": [3],
-        "versions": ["1.1.1"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.1"
+        ]
     },
     {
         "file_name": "/content-scripts/import-main.js",
         "file_hash": "e7ca29ecf0deb7779fa17550fbbbe5e6",
-        "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2", "1.1.3"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.1",
+            "1.1.2",
+            "1.1.3"
+        ]
     },
     {
         "file_name": "/content-scripts/main.js",
         "file_hash": "f1f901144ea33bca58290ea2a8c1d447",
-        "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2", "1.1.3"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.1",
+            "1.1.2",
+            "1.1.3"
+        ]
     },
     {
         "file_name": "/dashboard.js",
         "file_hash": "3692994989c09661fc9ddd095f0fadc9",
-        "vManifest": [3],
-        "versions": ["1.1.1", "1.1.2", "1.1.3"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.1",
+            "1.1.2",
+            "1.1.3"
+        ]
     },
     {
         "file_name": "/vendor.js",
         "file_hash": "e2c0e749825f1133d04a43f0835520c8",
-        "vManifest": [3],
-        "versions": ["1.1.1"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.1"
+        ]
     },
     {
         "file_name": "/manifest.json",
         "file_hash": "42d6a48a272319717f0d0ed28fc2cde2",
-        "vManifest": [3],
-        "versions": ["1.1.1"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.1"
+        ]
     },
     {
         "file_name": "/dashboard.html",
         "file_hash": "b6ec936b3dbd07b554ae9d612a9e4c1b",
-        "vManifest": [2, 3],
-        "versions": ["1.1.2", "1.1.3"]
+        "vManifest": [
+            2,
+            3
+        ],
+        "versions": [
+            "1.1.2",
+            "1.1.3"
+        ]
     },
     {
         "file_name": "/content-scripts/hook.js",
         "file_hash": "56c2c04d6b77c4249a67470dffc6e301",
-        "vManifest": [3],
-        "versions": ["1.1.2"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.2"
+        ]
     },
     {
         "file_name": "/vendor.js",
         "file_hash": "98bd2879bf7431374f07df44be5618d2",
-        "vManifest": [3],
-        "versions": ["1.1.2", "1.1.3"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.2",
+            "1.1.3"
+        ]
     },
     {
         "file_name": "/content-scripts/hook.js",
         "file_hash": "8516eaa38c22a6333136498e434d06e1",
-        "vManifest": [3],
-        "versions": ["1.1.3"]
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.3"
+        ]
     },
     {
         "file_name": "/manifest.json",
-        "file_hash": "0246963ad353f3ac296643a829f7e947",
-        "vManifest": [3],
-        "versions": ["1.1.3"]
+        "file_hash": "a9740b9148ee943aea7cc00a5fb6749e",
+        "vManifest": [
+            3
+        ],
+        "versions": [
+            "1.1.3"
+        ]
     }
 ]
