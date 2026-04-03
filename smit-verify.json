@@ -668,15 +668,5 @@
         "versions": [
             "1.1.3"
         ]
-    },
-    {
-        "file_name": "/manifest.json",
-        "file_hash": "a9740b9148ee943aea7cc00a5fb6749e",
-        "vManifest": [
-            3
-        ],
-        "versions": [
-            "1.1.3"
-        ]
     }
 ]
