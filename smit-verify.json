@@ -421,63 +421,51 @@
     "versions": ["1.1.4"]
   },
   {
-    "file_name": "/background.js",
-    "file_hash": "96cc8f74117cb9cda33c824e79379d9d",
-    "vManifest": [3],
-    "versions": ["1.1.5"]
-  },
-  {
-    "file_name": "/content-scripts/hook.js",
-    "file_hash": "6ed68509e79bdb82b7497c1fb20dc58c",
-    "vManifest": [3],
-    "versions": ["1.1.5"]
-  },
-  {
     "file_name": "/dashboard.html",
     "file_hash": "dcb78fa940ef66be005a22fe31c0e850",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   },
   {
     "file_name": "/background.js",
     "file_hash": "5f5639e266c152c1e38d499d382fe2a9",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   },
   {
     "file_name": "/content-scripts/hook.js",
     "file_hash": "54394066c59fe71a8207373a33dd75a2",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   },
   {
     "file_name": "/content-scripts/import-main.js",
     "file_hash": "ec9daefcadff9f9a82f27ccabfc79600",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   },
   {
     "file_name": "/content-scripts/main.js",
     "file_hash": "cc4872f15af54f0b29c0679c18f604fe",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   },
   {
     "file_name": "/dashboard.js",
     "file_hash": "c09f15b6ed2bec80127aeb8311121185",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   },
   {
     "file_name": "/vendor.js",
     "file_hash": "c72c67ee7280b64657049f65217b775c",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   },
   {
     "file_name": "/manifest.json",
-    "file_hash": "e4e0b3f6453b2204a5499b48b31593e9",
+    "file_hash": "053764f2e10c1c8a2fad7d5d784f8681",
     "vManifest": [3],
-    "versions": ["1.1.5"]
+    "versions": ["1.2.0"]
   }
 ]
