@@ -443,7 +443,7 @@
     "file_name": "/content-scripts/import-main.js",
     "file_hash": "ec9daefcadff9f9a82f27ccabfc79600",
     "vManifest": [3],
-    "versions": ["1.2.0"]
+    "versions": ["1.2.0", "1.2.3"]
   },
   {
     "file_name": "/content-scripts/main.js",
@@ -472,7 +472,7 @@
   {
     "file_name": "/background.js",
     "file_hash": "f7ea7c050bdf5d0dfe9e9fecbfb22e98",
-    "vManifest": [2],
+    "vManifest": [2,3],
     "versions": ["1.2.3"]
   },
   {
@@ -485,6 +485,12 @@
     "file_name": "/manifest.json",
     "file_hash": "269d04b08a6edcc635809453a567a64e",
     "vManifest": [2],
+    "versions": ["1.2.3"]
+  },
+ {
+    "file_name": "/manifest.json",
+    "file_hash": "df23a132234d262a75247fc9d52c8561",
+    "vManifest": [3],
     "versions": ["1.2.3"]
   }
 ]
