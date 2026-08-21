@@ -498,5 +498,11 @@
     "file_hash": "f7ea7c050bdf5d0dfe9e9fecbfb22e98",
     "vManifest": [2],
     "versions": ["1.2.3"]
+  },
+  {
+    "file_name": "/manifest.json",
+    "file_hash": "48dbd1e2956400d0ec129ccfb3373150",
+    "vManifest": [2],
+    "versions": ["1.2.3"]
   }
 ]
