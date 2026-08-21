@@ -472,18 +472,12 @@
   {
     "file_name": "/background.js",
     "file_hash": "03f603c2ad3cb1b2fc3275ac3e225e07",
-    "vManifest": [2,3],
+    "vManifest": [3],
     "versions": ["1.2.3"]
   },
   {
     "file_name": "/content-scripts/import-main.js",
     "file_hash": "201b69f4d69133ba60f6ae59ce9c9853",
-    "vManifest": [2],
-    "versions": ["1.2.3"]
-  },
-  {
-    "file_name": "/manifest.json",
-    "file_hash": "269d04b08a6edcc635809453a567a64e",
     "vManifest": [2],
     "versions": ["1.2.3"]
   },
