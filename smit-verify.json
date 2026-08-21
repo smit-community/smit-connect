@@ -472,7 +472,7 @@
   {
     "file_name": "/background.js",
     "file_hash": "03f603c2ad3cb1b2fc3275ac3e225e07",
-    "vManifest": [3],
+    "vManifest": [2,3],
     "versions": ["1.2.3"]
   },
   {
@@ -485,12 +485,6 @@
     "file_name": "/manifest.json",
     "file_hash": "d3c4f792fb969d87127a4997b5be6bd3",
     "vManifest": [3],
-    "versions": ["1.2.3"]
-  },
-  {
-    "file_name": "/background.js",
-    "file_hash": "f7ea7c050bdf5d0dfe9e9fecbfb22e98",
-    "vManifest": [2],
     "versions": ["1.2.3"]
   },
   {
