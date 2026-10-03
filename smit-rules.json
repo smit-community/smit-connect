@@ -19,8 +19,16 @@
         },
         "condition": {
             "urlFilter": "https://gateway.smit.vn",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -66,8 +74,16 @@
         },
         "condition": {
             "urlFilter": "https://www.facebook.com",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -113,8 +129,14 @@
         },
         "condition": {
             "urlFilter": "https://business.facebook.com",
-            "resourceTypes": ["xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -160,8 +182,16 @@
         },
         "condition": {
             "urlFilter": "https://adsmanager.facebook.com",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -207,8 +237,16 @@
         },
         "condition": {
             "urlFilter": "https://m.facebook.com",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -254,8 +292,16 @@
         },
         "condition": {
             "urlFilter": "https://mbasic.facebook.com",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -293,8 +339,16 @@
         },
         "condition": {
             "urlFilter": "https://graph.facebook.com",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -332,8 +386,16 @@
         },
         "condition": {
             "urlFilter": "https://adsmanager-graph.facebook.com",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -350,8 +412,16 @@
         },
         "condition": {
             "urlFilter": "*://smit.*",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -368,8 +438,16 @@
         },
         "condition": {
             "urlFilter": "*://*.smit.*",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -387,8 +465,16 @@
         },
         "condition": {
             "urlFilter": "https://translate.google.com",
-            "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"],
-            "initiatorDomains": ["nmnnilimjhkbdmnpojpbihmnphkneckf", "mkioennpdihocmahmgaeekhpoacfilcn", "smit.addon@smit.vn"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest"
+            ],
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ]
         }
     },
     {
@@ -405,7 +491,10 @@
         },
         "condition": {
             "urlFilter": "https://business.facebook.com",
-            "resourceTypes": ["main_frame", "sub_frame"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame"
+            ]
         }
     },
     {
@@ -422,7 +511,10 @@
         },
         "condition": {
             "urlFilter": "https://web.whatsapp.com",
-            "resourceTypes": ["main_frame", "sub_frame"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame"
+            ]
         }
     },
     {
@@ -439,7 +531,10 @@
         },
         "condition": {
             "urlFilter": "https://www.messenger.com",
-            "resourceTypes": ["main_frame", "sub_frame"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame"
+            ]
         }
     },
     {
@@ -448,15 +543,58 @@
         "action": {
             "type": "modifyHeaders",
             "responseHeaders": [
-                { "header": "cache-control", "operation": "set", "value": "no-cache, no-store, must-revalidate" },
-                { "header": "pragma", "operation": "set", "value": "no-cache" },
-                { "header": "expires", "operation": "set", "value": "0" },
-                { "header": "content-security-policy", "operation": "remove" } 
+                {
+                    "header": "cache-control",
+                    "operation": "set",
+                    "value": "no-cache, no-store, must-revalidate"
+                },
+                {
+                    "header": "pragma",
+                    "operation": "set",
+                    "value": "no-cache"
+                },
+                {
+                    "header": "expires",
+                    "operation": "set",
+                    "value": "0"
+                },
+                {
+                    "header": "content-security-policy",
+                    "operation": "remove"
+                }
             ]
         },
         "condition": {
             "urlFilter": "||web.telegram.org",
-            "resourceTypes": ["main_frame", "sub_frame"]
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame"
+            ]
+        }
+    },
+    {
+        "id": 3706,
+        "priority": 1,
+        "action": {
+            "type": "modifyHeaders",
+            "requestHeaders": [
+                {
+                    "header": "user-agent",
+                    "operation": "set",
+                    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        "condition": {
+            "initiatorDomains": [
+                "nmnnilimjhkbdmnpojpbihmnphkneckf",
+                "mkioennpdihocmahmgaeekhpoacfilcn",
+                "smit.addon@smit.vn"
+            ],
+            "resourceTypes": [
+                "xmlhttprequest"
+            ],
+            "urlFilter": "https://adsmanager.facebook.com"
         }
     }
 ]
