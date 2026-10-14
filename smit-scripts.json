@@ -1,26 +1,53 @@
 [
     {
-        "include": ["https://*.facebook.com/*"],
+        "include": [
+            "https://*.facebook.com/*"
+        ],
         "file_name": "facebook",
         "file_hash": "f752cf131ca74b788c875fc26f7819a5"
     },
     {
-        "include": ["https://*.facebook.com/adsmanager/*", "https://*.facebook.com/ads/manager/*", "https://*.facebook.com/billing_hub/*", "https://*.facebook.com/adsreporting/*", "https://*.facebook.com/latest/billing_hub/*"],
+        "include": [
+            "https://*.facebook.com/adsmanager/*",
+            "https://*.facebook.com/ads/manager/*",
+            "https://*.facebook.com/billing_hub/*",
+            "https://*.facebook.com/adsreporting/*",
+            "https://*.facebook.com/latest/billing_hub/*"
+        ],
         "file_name": "extended-payment",
-        "file_hash": "2ca750c8f20ec4807ec354391123baba"
+        "file_hash": "fb6b7e0de37eef81caebeb2e983021a2"
     },
     {
-        "include": ["https://pages.fm/*", "https://pancake.vn/*", "https://pancake.ph/*", "https://pancake.id/*", "https://pancake.biz/*", "https://*.nobi.pro/*", "https://smax.chat/*", "https://next.smax.chat/*", "https://*.zsolution.vn/*", "https://zchat.f99.link/*", "https://smax.ai/*", "https://web.whatsapp.com/*"],
+        "include": [
+            "https://pages.fm/*",
+            "https://pancake.vn/*",
+            "https://pancake.ph/*",
+            "https://pancake.id/*",
+            "https://pancake.biz/*",
+            "https://*.nobi.pro/*",
+            "https://smax.chat/*",
+            "https://next.smax.chat/*",
+            "https://*.zsolution.vn/*",
+            "https://zchat.f99.link/*",
+            "https://smax.ai/*",
+            "https://web.whatsapp.com/*"
+        ],
         "file_name": "smit-translator",
         "file_hash": "13a9ff29d8c9d450a4e994e332263c96"
     },
     {
-        "include": ["https://www.facebook.com/", "https://www.facebook.com/tr"],
+        "include": [
+            "https://www.facebook.com/",
+            "https://www.facebook.com/tr"
+        ],
         "file_name": "smit-ads-finder",
         "file_hash": "a0edc66f9df09f8e50dbd93c1906865d"
     },
     {
-        "include": ["https://smit.vn/*", "https://*.smit.vn/*"],
+        "include": [
+            "https://smit.vn/*",
+            "https://*.smit.vn/*"
+        ],
         "file_name": "extended-smit",
         "file_hash": "c4002435a710b82bd363153d6be48a40"
     }
